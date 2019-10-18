@@ -1,0 +1,202 @@
+.images{
+	width: 100%;
+	position: relative;
+	height: 300px;
+	overflow: hidden;
+	margin: 0 auto;
+	background-image: url(../images/ABUIABAEGAAgzrbg3gUokPafqgMwgA84rAI.png);
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.xw{
+	width: 1200px;
+	height: 1463px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.xw .text{
+	height: 932px;
+	position: relative;
+	left: 1200px;
+}
+
+.xw .text .t-word{
+	position: absolute;
+	top: 36px;
+	left: 1px;
+	width: 1199px;
+	height: 894px;
+	text-align: center;
+
+}
+.xw .text .t-word span{
+	line-height: 30px;
+	font-size: 24px;
+	color: #333333;
+	font-weight: bold;
+	font-family: "微软雅黑";
+}
+
+.xw .text .t-word .text1{
+	margin-top: 30px;
+	line-height: 30px;
+	font-size: 16px;
+	color: #666666;
+	text-indent: 2em;
+	text-align: left;
+}
+.xw .text .t-word .text2{
+	margin-top: 30px;
+	line-height: 30px;
+	font-size: 16px;
+	color: #666666;
+	text-indent: 2em;
+	text-align: left;
+}
+.xw .text .t-word .img{
+	position: absolute;
+	top:246px;
+	width: 1200px;
+	height: 500px;
+}
+.xw .text .t-word .img img{
+	left: -2px;
+
+}
+.xw .text .t-word .text3{
+	position: absolute;
+	top: 780px;
+	line-height: 30px;
+	font-size: 16px;
+	color: #666666;
+	text-indent: 2em;
+	text-align: left;
+}
+/* 服务优势 */
+.ser{
+	width: 1200px;
+	height: 458px;
+	margin: 0 auto;
+	position: relative;
+	top: 30px;
+}
+.ser .ser-top{
+	position: absolute;
+	top: 55px;
+	left: 453px;
+	width: 300px;
+	height: 74px;
+	text-align: center;
+}
+.ser .ser-top .top-text1{
+	font-size: 24px;
+	color: #333333;
+	line-height: 37px;
+}
+.ser .ser-top .top-text2{
+	font-size: 14px;
+	color: #999999;
+	line-height: 37px;
+}
+
+.ser .ser-tb3{
+	position: absolute;
+	top: 197px;
+	left: 887px;
+	width: 116px;
+	height: 116px;
+}
+.ser .ser-tb2{
+	position: absolute;
+	top: 197px;
+	left: 545px;
+	width: 116px;
+	height: 116px;
+}
+.ser .ser-tb1{
+	position: absolute;
+	top: 197px;
+	left: 203px;
+	width: 116px;
+	height: 116px;
+}
+.ser .ttb1{
+	position: absolute;
+	top: 215px;
+	left: 221px;
+	width: 80px;
+	height: 80px;
+	
+}
+.ser .ttb2{
+	position: absolute;
+	top: 215px;
+	left: 563px;
+	width: 80px;
+	height: 80px;
+	
+}
+.ser .ttb3{
+	position: absolute;
+	top: 215px;
+	left: 905px;
+	width: 80px;
+	height: 80px;
+	
+}
+.ser .tb-text2{
+	position: absolute;
+	top: 345px;
+	left: 489px;
+	width: 227px;
+	height: 98px;
+	text-align: center;
+}
+.ser .tb-text2 .t-word1{
+	font-size: 16px;
+	color: #333333;
+	line-height: 32px;
+}
+.ser .tb-text2 .t-word2{
+	font-size: 12px;
+	color: #999999;
+	line-height: 30px;
+}
+.ser .tb-text3{
+	position: absolute;
+	top: 345px;
+	left: 844px;
+	width: 201px;
+	height: 131px;
+	text-align: center;
+}
+.ser .tb-text3 .t-word1{
+	font-size: 16px;
+	color: #333333;
+	line-height: 32px;
+}
+.ser .tb-text3 .t-word2{
+	font-size: 12px;
+	color: #999999;
+	line-height: 30px;
+}
+.ser .tb-text1{
+	position: absolute;
+	top: 345px;
+	left: 147px;
+	width: 227px;
+	height: 98px;
+	text-align: center;
+}
+.ser .tb-text1 .t-word1{
+	font-size: 16px;
+	color: #333333;
+	line-height: 32px;
+}
+.ser .tb-text1 .t-word2{
+	font-size: 12px;
+	color: #999999;
+	line-height: 30px;
+}
+/* 服务优势 end*/

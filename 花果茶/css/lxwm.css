@@ -1,0 +1,182 @@
+.images{
+	width: 100%;
+	position: relative;
+	height: 300px;
+	overflow: hidden;
+	margin: 0 auto;
+	background-image: url(../images/ABUIABAEGAAg6ZXk3gUowN-v7AUwgA84rAI.png);
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.body{
+	width: 1200px;
+	margin: 0 auto;
+	padding-bottom: 80px;
+	overflow: hidden;
+}
+.body .liuyan{
+	width: 1200px;
+	height: 450px;
+	position: relative;
+	left: 1200px;
+	overflow: hidden;
+	
+}
+.body .liuyan .l-left{
+	position: absolute;
+	top: 71px;
+	left: 0;
+	width: 546px;
+	height: 369px;
+}
+.body .liuyan .l-left .l-top{
+	width: 100%;
+	height: 45px;
+	line-height: 45px;
+	overflow: hidden;
+	border-bottom: 1px solid #eaeaea;
+}
+
+.body .liuyan .l-left .l-top .text{
+	float: left;
+	height: 44px;
+	padding: 0 7px;
+	color: #f13a3a;
+	border-bottom: 1px solid #f13a3a;
+	}
+.body .liuyan .l-left .ewm{
+	
+	height: 312px;
+	margin: 5px;
+	text-align: left;
+
+}
+.body .liuyan .l-left .ewm .e-con{
+	text-indent: 2em;
+}
+.body .liuyan .l-left .ewm .e-con P{
+	/* height: 29px; */
+	line-height: 29px;
+}
+.body .liuyan .l-left .ewm .e-con p img{
+	width: 160px;
+	height: 160px;	
+}
+.body .liuyan .l-right{
+	position: absolute;
+	top: 70px;
+	left: 600px;
+	width: 600px;
+
+}
+.body .liuyan .l-right .r-body{
+	position: relative;
+	height: auto;
+	overflow: hidden;
+	margin: 5px;
+}
+.body .liuyan .l-right .r-body .b-con{
+	margin-left: 14px;
+	width: 100%;
+	height: auto;
+}
+.body .liuyan .l-right .r-body .b-con .text1{
+	width: 100%;
+	height: 100%;
+
+}
+.body .liuyan .l-right .r-body .b-con .text1 .t1{
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+	margin: 10px 0 15px;
+	font-size: 14px;
+	color: #666666;
+}
+.body .liuyan .l-right .r-body .b-con .text1 .t2{
+	float: left;
+	line-height: 30px;
+	font-size: 14px;
+	color: #666666;
+	margin: 10px 30px 10px 0;
+}
+.body .liuyan .l-right .r-body .b-con .text1 .t2 p{
+	display: inline-block;
+	float: left;
+	width: 60px;
+	text-align: center;
+	line-height: 36px;
+
+}
+.body .liuyan .l-right .r-body .b-con .text1 .t2 input{
+	border: 1px solid #dadada;
+	height: 30px;
+	line-height: 30px;
+	padding: 1px;
+	text-indent: 6px;
+	width: 186px;
+	float: left;
+	
+}
+.body .liuyan .l-right .r-body .b-con .text1 .t2 .star{
+	margin-left: 8px;
+	font-size: 14px;
+	color: red;
+	vertical-align: middle;
+}
+.body .liuyan .l-right .r-body .b-con .text2{
+	width: 100%;
+	height: 80px;
+	margin: 10px 0;
+	line-height: 80px;
+}
+.body .liuyan .l-right .r-body .b-con .text2 p{
+	position: relative;
+	width: 60px;
+	height: 62px;
+	line-height: 62px;
+	font-size: 14px;
+	color: #666666;
+	float: left;
+	text-align: center;
+}
+.body .liuyan .l-right .r-body .b-con .text2 textarea{
+	width: 250px;
+	height: 60px;
+	line-height: 26px;
+	border: 1px solid #dadada;
+	float: left;
+	padding: 2px;
+	resize: none;
+	text-indent: 6px;
+	font-weight: 400;
+}
+.body .liuyan .l-right .r-body .b-con .text3{
+	width: 100%;
+	height: 44px;
+	line-height: 44px;
+	margin: 20px 0 20px 0;
+}
+.body .liuyan .l-right .r-body .b-con .text3 .kb{
+	width: 60px;
+	height: 1px;
+	float: left;
+	
+}
+.body .liuyan .l-right .r-body .b-con .text3 .tj{
+	float: left;
+	width: 230px;
+	height: 44px;
+	line-height: 44px;
+	text-align: center;
+	background: #f54f4f;
+	color: #fff;
+	font-size: 14px;
+	cursor: pointer;
+	
+}
+.body .img{
+	position: relative;
+	left: 1200px;
+}

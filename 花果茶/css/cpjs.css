@@ -1,0 +1,84 @@
+.images{
+	width: 100%;
+	position: relative;
+	height: 300px;
+	overflow: hidden;
+	margin: 0 auto;
+	background-image: url(../images/ABUIABAEGAAgwtzg3gUo1vSQigcwgA84rAI.png);
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+/* ol系列 */
+.olxl{
+	width: 1200px;
+	height: 780px;
+	margin: 0 auto;
+	margin-top: 35px;
+	position: relative;
+}
+.olxl .ol-qy{
+	position: absolute;
+	top: 70px;
+	left: 450px;
+	width: 300px;
+	height: 74px;
+	text-align: center;
+}
+.olxl .ol-qy .text1{
+	color: #333333;
+	font-size: 24px;
+	line-height: 37px;
+}
+.olxl .ol-qy .text2{
+	color: #999999;
+	font-size: 14px;
+	line-height: 37px;
+
+}
+.olxl .ol-cy{
+	width: 1200px;
+	height: 277px;
+	/* background: aqua; */
+	position: absolute;
+	top: 182px;
+	left: 45px;
+}
+.olxl .ol-cy .cy-lx{
+	float: left;
+	width: 200px;
+	height: 245px;
+	margin-right: 95px;
+	padding: 6px 0 0 0 ;
+}
+.olxl .ol-cy .cy-lx .lx-text{
+	margin-top: 10px;
+	margin-bottom: 14px;
+	text-align: center;
+	font-size: 16px;
+	color: #333333;
+	cursor: pointer;
+}
+.olxl .ol-cy2{
+	position: absolute;
+	top: 453px;
+	left: 45px;
+	width: 1200px;
+	height: 277px;
+}
+.olxl .ol-cy2 .cy-lx{
+	float: left;
+	width: 200px;
+	height: 245px;
+	margin-right: 95px;
+	padding: 6px 0 0 0 ;
+}
+.olxl .ol-cy2 .cy-lx .lx-text{
+	margin-top: 10px;
+	margin-bottom: 14px;
+	text-align: center;
+	font-size: 16px;
+	color: #333333;
+	cursor: pointer;
+}
+/* ol系列  end*/

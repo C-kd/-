@@ -1,0 +1,195 @@
+.images{
+	width: 100%;
+	position: relative;
+	height: 300px;
+	overflow: hidden;
+	margin: 0 auto;
+	background-image: url(../images/ABUIABAEGAAgmJnk3gUo8tuTjQIwgA84rAI.png);
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.yck{
+	width: 1200px;
+	overflow: hidden;
+	margin: 0 auto;
+	position: relative;
+}
+.body{
+	width: 1200px;
+	height: 2092px;
+	position: relative;
+	left: 1200px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.body2{
+	position: absolute;
+	left: 1200px;
+	top: 0;
+}
+.body .dqwz{
+	position: absolute;
+	top: 23px;
+	left: 20px;
+	width: 1200px;
+	height: 40px;
+	border-bottom: 1px solid #999999;
+}
+.body .dqwz .text{
+	font-size: 14px;
+	line-height: 28px;
+	color: #666666;
+	text-indent: 0.3em;
+}
+.body .dqwz .text a{
+	font-size: 14px;
+	color: #666666;
+}
+.body .hgc{
+	position: absolute;
+	top: 132px;
+	left: 20px;
+	width: 1179px;
+	height: 1952px;
+}
+.body .hgc .h-top{
+	width: 100%;
+	overflow: hidden;
+	line-height: 45px;
+	border-bottom: 1px solid #cccccc;
+}
+.body .hgc .h-top .t-left{
+	float: left;
+}
+.body .hgc .h-top .t-left .bg{
+	float: left;
+	width: 14px;
+	height: 45px;
+	background: url(../images/AKMDCAQQ-eWOvgUYz6qQ8gU.png) no-repeat center;
+}
+.body .hgc .h-top .t-left .text{
+	float: left;
+	width: 80px;
+	height: 45px;
+	padding: 0 5px;
+	color: #ff6637;
+}
+.body .hgc .h-top .t-right{
+	position: absolute;
+	left: auto;
+	right: 5px;
+	top: 0;
+	bottom: 0;
+	height: 45px;
+	padding: 0 6px;
+	color: #666666;
+	font-size: 14px;
+	cursor: pointer;
+}
+.body .hgc .h-body{
+	height: 1876px;
+	overflow: hidden;
+	margin-top: 37px;
+	position: relative;
+}
+.body .hgc .h-body .b-o1{
+	width: 100%;
+	padding-bottom: 17px;
+}
+.body .hgc .h-body .b-o1 .img{
+	position: relative;
+	float: left;
+	width: 260px;
+	height: 180px;
+}
+.body .hgc .h-body .b-o1 img{
+	width: 250px;
+	cursor: pointer;
+}
+.body .hgc .h-body .b-o1 .text1{
+	overflow: hidden;
+	line-height: 21px;
+}
+.body .hgc .h-body .b-o1 .text1 .t-bt{
+	float: left;
+
+}
+.body .hgc .h-body .b-o1 .text1 .t-bt a{
+	font-size: 16px;
+	font-weight: bold;
+	color: #666666;
+}
+.body .hgc .h-body .b-o1 .text1 .t-bt a:hover{
+	color: #FF6637;
+}
+.body .hgc .h-body .b-o1 .text1 .t-sj{
+	float: right;
+	font-size: 14px;
+	color: #666666;
+	padding: 0 5px;
+}
+.body .hgc .h-body .b-o1 .text2{
+	padding-top: 6px;
+	height: 36px;
+	font-size: 15px;
+	color: #797979;
+	line-height: 18px;
+}
+.body .hgc .h-body .fjx{
+	height: 1px;
+	margin-bottom: 17px;
+	border-bottom: 1px dashed #e5e5e5;
+}
+.body .hgc .h-body .page{
+	text-align: center;
+	margin-top: 10px;
+	font-size: 14px;
+	color: #666666;
+	line-height: 24px;
+	cursor: default;
+}
+.body .hgc .h-body .page .pre{
+	height: 24px;
+	padding: 8px 12px;
+	display: inline-block;
+	cursor: pointer;
+	
+}
+.body .hgc .h-body .page .precon{
+	cursor: default;
+}
+.body .hgc .h-body .page .onecur{
+	cursor: default;
+}
+.body .hgc .h-body .page .one{
+	height: 24px;
+	display: inline-block;
+	padding: 8px 12px;
+	color: #FF6637;
+
+}
+.body .hgc .h-body .page .onecon{
+	color: #666666;
+	cursor: pointer;
+}
+.body .hgc .h-body .page .two{
+	height: 24px;
+	display: inline-block;
+	padding: 8px 12px;
+	cursor: pointer;
+}
+.body .hgc .h-body .page .twocon{
+	color: #FF6637;
+	cursor: default;
+}
+.body .hgc .h-body .page .next{
+	height: 24px;
+	display: inline-block;
+	padding: 8px 12px;
+	cursor: pointer;
+
+}
+.body .hgc .h-body .page .nextcon{
+	cursor: default;
+}
